@@ -1,7 +1,0 @@
-$backup  
-{topic,Restoring Backup}  
-Ao criar um backup a partir da janela de carregamento do jogo, uma pasta chamada "Backup" é gerada na pasta de dados salvos do seu PC (você pode encontrá-la navegando até Configurações → Outros → Abrir Log de Erros). A pasta contendo os dados de backup é copiada para esta pasta Backup.
-
-Para restaurar um backup, abra a pasta de dados salvos mencionada acima, exclua os dados salvos existentes e copie a pasta de dados salvos do backup da pasta Backup.
-
-O ID dos dados salvos pode ser verificado na tela "Detalhes do Mundo" no menu de carregamento.
