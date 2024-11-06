@@ -1,0 +1,134 @@
+{topic, Welcome to Elin's Demo!}
+Welcome to Elin, and thank you for participating in this Demo!
+
+There are two restrictions in the demo version:
+
+The maximum number of feat points (levels) the player can earn is 10.
+The home level can only go up to level 3.
+
+Please take your time and enjoy the world of Ylva!
+
+<i>※ Please note that Elin is in Early Access and still under heavy development.</i>
+
+{topic, Elin Update Information}
+{link,Answers(Ylvania),http://ylvania.org/elin_dev_e.html}
+{link,Change Log(Ylvapedia),https://ylvapedia.wiki/wiki/Elin:Changelog}
+
+■ 10/8 2024 β 22.82
+(Translated by GPT)
+
+[Additions and Changes]
+* Adjusted the brightness and contrast when on the surface (slightly brighter, lower contrast). The portraits during conversations are now slightly brighter as well.
+* When flattening the map with ALT+SHIFT, the support pillars of platforms will no longer be rendered.
+* Slightly revised the appearance of the maps for Acriteora, Little Garden, Orvina, Yowyn, and Mishilia.
+* Added an ALT title screen to the title menu. The title background now maintains its aspect ratio as much as possible. Adjustments were made to the BGM and artwork.
+* Reduced the size of large tent maps by one scale.
+* Improved the fog of war and color schemes.
+* Enhanced the detail of the information shown on the load screen (if using old save data, saving anew will update the information).
+* Increased the experience points gained when opening small lottery boxes.
+* Now possible to drag and drop containers with contents into the enchantment slot when using dyes or feather scrolls.
+* When using a blessed scroll of uncurse or similar items, if there are stackable items in the backpack, they will now be stacked.
+* Items in Kettle's duplication shop that contain mixed food will now always have a quantity of 1.
+* NPC-owned plastic model boxes can no longer be opened.
+* Party members will no longer automatically ride the minecarts inside dungeons.
+* When closing crafting or trading windows by right-clicking, the window will close even if the cursor is over the window, as long as it's not overlapping with an item slot.
+* Added BGM to the global map.
+* Restock icons will now be displayed for vending machines and similar objects.
+* Even in shops where normal items cannot be sold (such as small medal exchanges), it will now be possible to sell back purchased or exchanged items.
+* Loan repayment for Roitel is now available (up to a certain point). This debt repayment quest is optional, and whether to progress it or not is up to the player. The reward received at the final stage where faith can be pledged will be further enhanced in future updates.
+* Replaced the graphics for luxurious treasure chests and small lottery boxes.
+
+[Fixes]
+* Fixed a glitch where a highlight could remain when right-clicking a disabled button.
+* Fixed an issue where some text had become faint in color.
+* Fixed an issue where, when cooking with skill values below the requirement, traits would not be synthesized.
+* Other minor fixes and adjustments.
+
+[Notes]
+* The current random adventurer race selection list is as intended.
+* Regarding the graphics for the ancient fish and coelacanth, the more “Seaman-like” one is treated as the coelacanth.
+
+
+■ 10/5 2024 β 22.81
+(Translated by GPT)
+
+[Additions and Changes]  
+* Temporarily disabled the function that forced crops with different enhancement levels to be grouped together during automatic farming (experimental. This function was originally introduced because, at the time, there were no large-capacity containers, and crop enhancement levels were synchronized with the seed enhancement levels, causing crops to scatter in large quantities).  
+* Reduced the range of random variation in the amount of Eco-Po obtained.  
+* When performing a text search in Help, the search terms are now highlighted on the page you jump to.  
+* Added a background image for quiver containers.  
+* When accessing containers that occupy multiple tiles (such as wagons) during auto-sorting, all accessible tiles are now path-searched and checked.  
+* Guild trainers will no longer provide skill training unless you're a member of the guild (previously, they would still teach skills, albeit at a higher cost than when in the guild).  
+* Beehives now have quality traits based on enhancement levels.  
+* The probability of characters speaking in a samurai-like tone has been drastically reduced (Japanese version only).  
+* Forced labor machines will no longer function if there are multiple on the same tile. Additionally, only residents can be selected.  
+* Adjusted the weight, images, and names of treasure chests.  
+* Changed the name of boss chests (chests dropped by bosses or found in treasure hunts) to "luxurious chests" (graphics are in production).  
+* Added a new type of lock, "complex locks," that information brokers cannot open. Containers with locked status will display this information in the tooltip.  
+* A significant experience bonus is now granted when unlocking complex locks.  
+* Changed the treasure chest in Fiamma's quest to a complex lock chest.  
+* Junk shops will occasionally sell treasure chests with complex locks.  
+* Some shops will now sell small lottery boxes.  
+* Recipes obtained during sleep or from treasure chests will no longer prioritize recipes that have not already been learned (as acquiring recipes had become too easy).
+
+[Fixes]  
+* Fixed a bug where the tooltip for plans displayed the skill acquisition status of companions.  
+* Corrected an issue where stone-type materials in high-level Nefia dungeons were frequently turning into granite (since there were no Tier 2 stone-type materials, granite was being chosen as a fallback).  
+* Other minor fixes and adjustments.
+
+[Notes]  
+* It is currently intended that crops with the same enhancement level may have different trait values (trait values randomly increase as the enhancement level of the seed rises).  
+* Regarding character color changes, these will be added in the future, but there are no plans to make dyeing colors easily achievable through dyes, etc. The idea is for individual colors to be part of the breeding enjoyment, such as when breeding creatures.  
+* Requests for necessary functions or error handling for Mod creation are more than welcome. Feel free to send feedback from within the game. If any errors occur, such as when removing Mods, sending the save data where the error occurred would be helpful.  
+* Automation for resource processing and gathering is something planned for the future but will be considered after the basic crafting-related functions and balance are complete, so it may still be a while.
+
+
+■ 10/2 2024 β 22.80
+(Translated by GPT)
+
+[Additions and Changes]  
+* Added a FAQ section to the in-game help (content will be updated periodically).  
+* Added a search function to the in-game help.  
+* Replaced the background for Grimoires.  
+* Increased the maximum weight calculated within containers to 10,000s (the previous update still had overflow issues).
+
+[Fixes]  
+* Fixed a bug where excommunication effects could occur even if not excommunicated while under the "Calamity" status condition.  
+* Addressed potential errors that could occur during zone simulations.  
+* Fixed an issue where quality was not being inherited in certain crafting recipes.  
+* Other minor fixes and adjustments.
+
+[Notes]  
+* Regarding overflow, the current approach is to address areas where overflow is most likely to occur during legitimate play, rather than covering all instances.  
+* Non-rotten, stackable food items will now automatically be consolidated by averaging their freshness.
+
+
+■ 9/30 2024 β 22.79
+(Translated by GPT)
+
+[Additions and Changes]
+* Updated/Added LastWish, credits, ingame memorials.
+* Improved the natural feel of the fog of war rendering.
+* Added and revised the crafting-related sections in the help menu.
+* Items marked as important will no longer be taken by companions, even if placed in the shared backpack container.
+* Residents with the hunter job will now only gather animal meat.
+* Grimoires used for learning no longer function during sleep on the global map (this prevents unexpected issues when reading fails).
+* Ether disease that angers neutral creatures in the vicinity will no longer affect the player’s companions or minions.
+* Tutorials that start upon picking up a specific item will now also trigger when the item is held in hand.
+* Trait level display now shows +1 compared to previous versions (to avoid the awkwardness of showing Lv.0 when the internal value is 0-9).
+* Set the maximum weight limit of container contents to 999,999s (experimental; even if exceeded, items can still be added or removed as before).
+* Items sold by notaries can no longer be rerolled (restocked).
+
+[Fixes]
+* Fixed an issue where land deeds couldn’t be wished for.
+* Fixed the problem where quality traits weren’t being inherited when using processing equipment (there’s no maximum limit on quality traits when using processing equipment).
+* Fixed tooltip display issues in build mode (English version).
+* Fixed the issue where food sold in shops no longer had quality traits.
+* Fixed a bug where the input dialog remained open after entering a special code.
+* Various other small fixes and adjustments.
+
+[Notes]
+* If Meriris doesn’t start a quest, try entering a special code.
+* Receiving damage from Meteor is an intended feature.
+* Excess experience points are reset when leveling up the Covenant Stone, and this is by design.
+* Hand-type magic has the highest elemental multiplier (0.2x for miasma, 0.5x for arrows, 0.9x for beams, and 1.2x for hands), making it the most likely to inflict status effects. We’ll confirm if this is functioning as intended in the next update.

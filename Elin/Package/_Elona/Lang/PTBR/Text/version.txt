@@ -1,0 +1,172 @@
+{if,cn}
+{topic, 欢迎游玩Elin！}
+欢迎游玩Elin，并且十分感谢您参与抢先体验(EA)！
+
+我会重视每位玩家的意见，并用于改善游戏内容体验。
+您可通过在游戏内使用<B>F11</B>按键，提交关于游戏的错误（bug）或感想。
+
+<i>※本作为尚处于开发阶段的抢先体验版。今后还会在游戏内追加更多玩法・内容。</i>
+
+{topic, 关于中国区Elin的价格变动通知}
+大家好，我是noa。
+
+非常感谢各位能热情的在发售首日购买、支持Elin。
+
+由于对各个地区的定价情况了解不足，我在接到玩家对首发定价的意见后，于11/2日对中国区Elin的价格进行了适当的调整。对因价格调整引起的差价，我会在后续进行补偿，具体补偿方案将会在今后进行公布。
+
+您可通过在游戏内的控制台输入「FirstAdventurer」，查看是否拥有获得首发购买特典的资格。
+
+根据Steam的商品购买条例，实际游玩时间未满2小时的玩家均可对游戏进行退款操作，具体操作方法可咨询Steam客服。
+
+{topic, 关于中文版的翻译}
+关于中文的翻译，目前游戏的更新频率较为频繁，而更新内容到完成翻译还需要一定时间，所以会出现游戏更新后显示一部分未翻译内容的情况。
+
+我今后会推出完全翻译的版本，来保证玩家获得最好的游戏体验。
+{endif}
+{if,!cn}
+{topic, Welcome to Elin!}
+Welcome to Elin, and thank you for participating in the Early Access(EA)!
+
+We plan to gather as many player feedback as possible and reflect it in the game. Please use the in-game bug reporting form accessible at any time with the <B>F11</B> key to send your feedback and bug reports.
+
+<i>※ Please note that Elin is in Early Access and still under heavy development.</i>
+{endif}
+{topic, Elin Update Information}
+{link,Dev Room(Ylvania) - Links、Troubleshooting、and Mod information,http://ylvania.org/elin_dev_e.html}
+{link,Change Log(Ylvapedia),https://ylvapedia.wiki/wiki/Elin:Changelog}
+
+■ 11/6 2024 EA 23.16 Hotfix 2
+
+* Fixed misaligned equipment positions in the enchantment list on the character sheet.  
+* Added a hint regarding hotbar switches.
+
+
+■ 11/6 2024 EA 23.16 Hotfix 1
+
+* Added 4 new portraits for the "sister" character.
+* Added 2 new portraits for the "lich" character. (Thanks minagi!)
+* Fixed an issue where the shared settings for containers held by the PC were missing.
+
+
+■ 11/6 2024 EA 23.16
+(Translated by GPT)
+
+[Additions and Changes]
+* Rolled back the method for changing furniture height to the previous method. Added an input setting to enable height adjustments only when pressing the Shift key while placing furniture.
+* When the option to continue playing music automatically is on, pressing Alt and Tab will no longer interrupt the music.
+* Added a new launch option, -UPDATE_LANG, for updating language files (for translation mod creators).
+* Added a few more dishes that can be cooked with fire-based attacks.
+* Improved performance slightly when the game runs in the background.
+* Plants that don’t require sunlight can now grow inside tents.
+* Solar lamps will have a reduced range of effect when not connected to a power source.
+* Set a 200-turn cooldown for the NPC-based theft ability.
+* Smoothed out the terrain in Vernis (to prevent quest items from getting hidden by elevation).
+* Limited melee and ranged damage to a maximum of 9,999,999.
+* Now checks if all necessary files are present in the User folder when starting the game.
+* Made the four-panel comic in the Palmia Times clickable.
+* Added a button to open the save data folder on the loading screen.
+* Increased the default stamina value by +5.
+* (Japanese version) Changed the name of the ingredient type “生地” to “練り粉” to avoid confusion with fabric.
+* Added fabric as a material for the bandage recipe.
+* Added a “Remove All” option to the PCC editing screen.
+* Items like blankets and lockpicks will now be used from the one with the fewest uses remaining.
+* Equipment slots are now sorted and displayed in the character sheet and companion information window.
+* Equipment can now be freely swapped with companions whose relationship is at “Trust” or higher.
+* Feedback cannot be sent from game data where Debug Mode is enabled.
+* Added an option to character sheet personal settings to “Automatically eat when hungry on the global map.”
+
+[Fixes]
+* Fixed issues with attack calculations when the dual-wielding skill has a negative value.
+* Fixed an issue preventing completion of instance-based quests if the quest spans a festival period.
+* Fixed a bug where the menu would not display when assigning “Show All Actions” to mouse buttons 4 or 5 and then using it on an item in the inventory.
+* Fixed an error that occurred when dragging and dropping items with a full inventory at a material hammer shrine.
+* Fixed an issue where unique NPCs would not return to their original map after deleting their personal data from the Covenant Stone.
+* Fixed an issue where tracked skills were not marked with “*” immediately after opening the character sheet.
+* Fixed overly sensitive mouse wheel scrolling under certain settings.
+* Fixed an issue where certain adventurer NPCs would accumulate duplicates of the same equipment in their inventories.
+* Other minor fixes and adjustments.
+
+[Notes]
+* Currently, skills with a negative level due to mutations do not gain experience. This is intended as part of the current system.
+
+
+■ 11/5 2024 EA 23.15
+(Translated by GPT)
+
+[Additions and Changes]
+* Mount skin changes are now only possible when a pet is at the hitching post.
+* The status bar for abilities will not be enabled at game start if the screen width is below 1300px.
+* Tools and ranged weapons are now immune to theft by enemies.
+* Added "Unequip held item" and "Shoot" to mouse actions in settings.
+* When the "Continue playing automatically" option is enabled, performance will no longer be interrupted if stamina falls below zero.
+* Bug reports cannot be made while hallucinating.
+* Tax invoices will not be sent if there are no bases.
+* Healers now sell more potions, with healing potions always in stock.
+* Added high-quality appraisal as a level bonus for the appraisal skill.
+* Display sorting settings within containers in tents as well.
+* Feather scrolls can now be used on artifacts.
+* In sparring maps, adventurers and others won’t steal (as items become unretrievable after sparring ends).
+* When moving to a designated point with the mouse, movement stops upon detecting an enemy.
+* Auto-combat actions will not display when holding scissors.
+* When placing an item, height adjustments can only be made while holding the Shift key.
+* When holding tools or similar items, right-clicking on an item (without other available actions at the target location) will now pick up the item.
+* Added Chinese translations.
+* General character graphic adjustments and fixes.
+
+[Fixes]
+* Fixed an issue where auto-combat tactic type settings would not take effect until gameplay resumed.
+* Fixed duplicate parent IDs in character generation (existing data may now have young male characters with an archaeologist parent and young female characters with an uncle parent).
+* Fixed a bug where the luck multiplier effect from Ehekatl's equipment bonus did not apply to residents or allies with a base luck of zero.
+* Resolved an issue where equipping multiple weapons with long-range attack ability caused odd behavior in auto-combat.
+* Fixed an issue that caused players to be transported to strange locations when sleeping at the far left of the global map.
+* Resolved an issue in Blackjack where hitting repeatedly would cause the dealer to burst.
+* Various other minor fixes and adjustments.
+
+[Notes]
+* Creating a field and digging with a shovel yields soil of that type, currently available in unlimited quantity.
+* Dice rolls decrease when equipping fist weapons, by design (fist weapons’ performance fully combines with unarmed attack capabilities, including enhancement levels and penetration, which can make them overly powerful with enchantments or upgrades).
+* If movement is blocked by an obstacle, self-harm may occasionally trigger teleportation.
+* Piety is a hidden value.
+* If unable to speak with Fiamma or Ash, it’s likely they are angry and neutral. Try talking through the middle-click menu, kill them temporarily, or allowing a few days to pass.
+
+
+■ 11/4 2024 EA 23.14
+(Translated by GPT)
+
+[Additions and Changes]
+* Items can now be delivered for procurement requests if their names match, even if the item types differ from the requested ones (this function existed before, but the name matching method has been adjusted).
+* Several new rumors have been added.
+* Items designated as important can still undergo processing, such as charm infusion, without being consumed.
+* User maps now allow exiting via Waystones or Covenant Stones.
+* The Chinese font has been replaced and expanded (Simplified and Traditional).
+* Containers that have contents cannot be recycled.
+* Named containers will no longer display prefixes.
+* Added a game setting: "Use offensive abilities on self only when holding the Shift key."
+* Nelren now trembles when stamina becomes dangerously low during crafting.
+* The property search feature now includes character searches (limited to personal bases and towns).
+* Wishes for land deeds are no longer allowed.
+* The chance for treasure chests to appear at the junk shop has been reduced. Treasure chests can now appear at Loytel Mart.
+* Opening a companion's inventory will now also display their equipped slots.
+* Skills being tracked on the skill tracker will now be marked with an * on the character sheet.
+* The appearance rate of divine statues has been adjusted. Players are limited in the number of times they can use Kumiro's secret experience.
+
+[Fixes]
+* Fixed an issue where items were consolidated even if their prefixes differed when the "Compress Items" option was enabled for containers.
+* Fixed an error that occurred when dragging equipment with acid-proof coating to mix while the inventory was full.
+* Corrected an issue where unarmed attacks were not considered hostile actions.
+* Fixed an issue where characters with the Loyalty feat would attempt to help companions even while unconscious from gene synthesis.
+* Addressed an error that could occur when repeatedly pressing the start adventure button during character creation.
+* Various other minor fixes and adjustments.
+
+[Notes]
+* The save data backup function only creates backups; manual copying is necessary for restoration. For more details, please refer to the System section in *Travel Wisdom*.
+* A solution for lost invoices in the Loytel debt quest is under consideration, so please wait a bit longer.
+* Currently, there is too many feedback to read everything, so finding a better approach is being considered.
+
+
+■ 11/4 2024 EA 23.13 Hotfix 2
+
+* Improved the content of Lutz’s Diary and added a new entry.
+* Prevented automatic switching to HDR mode when an HDR display is used (the game itself runs in SDR).
+* Fixed an error that could occur when re-entering the city after the festival.
+* Various minor fixes and adjustments.

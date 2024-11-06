@@ -1,0 +1,7 @@
+$backup
+{topic,Restoring Backup}
+When creating a backup from the game’s load window, a folder named “Backup” is generated in your PC’s save data folder (this can be found by navigating to Settings → Others → Open Error Log). The folder containing the backup save data is then copied into this Backup folder.
+
+To restore a backup, open the save data folder mentioned above, delete the existing save data, and copy the backed-up save data folder from the Backup folder.
+
+The ID of the save data can be checked from the “World Details” screen on the load menu.
