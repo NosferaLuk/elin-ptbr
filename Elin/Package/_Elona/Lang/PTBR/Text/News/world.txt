@@ -1,23 +1,23 @@
-The Desert Empire's Intentions
-The ongoing conflict continues to create a delicate tension between the New Kingdom and the Empire. Intelligence from Yerl leaked information that the empire is secretly advancing the reconstruction of Cyran airships.
-@desert,UN_isygarad
+As intenções do Império do Deserto  
+O conflito em curso continua a criar uma tensão delicada entre o Novo Reino e o Império. Informações vazadas de Yerl indicam que o império está avançando secretamente na reconstrução das aeronaves Cyranas.  
+@desert,UN_isygarad  
 
-Yerl Announces New Magical Reflective Armor
-The New Kingdom announces the development of 'Miraja', a magical reflective armor. The new development signifies Yerl's preparedness and strategic advancements in magical defense technology.
-@labo
+Yerl Anuncia Nova Armadura Mágica Refletora  
+O Novo Reino anuncia o desenvolvimento da 'Miraja', uma armadura mágica refletora. O novo desenvolvimento sinaliza a preparação e os avanços estratégicos de Yerl em tecnologia de defesa mágica.  
+@labo  
 
-Unraveling Cyra's Mystery
-Yerl initiates research into the power source of Cyran airship. Scientists speculate this enigmatic energy possibly involves 'Ether'. They are seeking cooperation from Mysilia, where the airship's wreckage lies buried.
-@labo
+Desvendando o Mistério de Cyra  
+Yerl iniciou pesquisas sobre a fonte de energia das aeronaves Cyranas. Cientistas especulam que essa enigmática energia possivelmente envolve 'Éter'. Eles estão buscando cooperação de Mysilia, onde os destroços da aeronave estão enterrados.  
+@labo  
 
-Fearsome Magical Armor 'Golem'
-The empire has deployed the ancient 'Golem' on the Yerl frontlines. Golem amplifies the abilities of its mage operator, posing overwhelming power. Yerl is rapidly developing non-magical automata as countermeasures against the Golem.
-@labo,UN_isygarad
+Temível Armadura Mágica 'Golem'  
+O império enviou o antigo 'Golem' para as linhas de frente de Yerl. O Golem amplifica as habilidades do seu operador mago, impondo um poder esmagador. Yerl está rapidamente desenvolvendo autômatos não mágicos como contramedidas contra o Golem.  
+@labo,UN_isygarad  
 
-Ice Queen Invites Adventurers for a Royal Reception
-The Queen of Mayroon has orchestrated an event, inviting adventurers from Tyris to her palace. The attendees were enchanted by the queen's beauty and the mysterious snow country.
-@snow
+Rainha do Gelo Convida Aventureiros para Recepção Real  
+A Rainha de Mayroon organizou um evento, convidando aventureiros de Tyris para seu palácio. Os participantes ficaram encantados com a beleza da rainha e o misterioso país da neve.  
+@snow  
 
-Adventurer, Cactus Spirit, and a Love Story
-News of an adventurer falling in love with a cactus spirit in South Tyris has spread. Numerous adventurers are now visiting south of Tyris.
+Aventureiro, Espírito de Cacto e uma História de Amor  
+Notícias sobre um aventureiro que se apaixonou por um espírito de cacto no sul de Tyris se espalharam. Numerosos aventureiros estão agora visitando o sul de Tyris.  
 @desert
