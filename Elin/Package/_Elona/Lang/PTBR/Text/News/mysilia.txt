@@ -1,47 +1,47 @@
-【Tragedy】The Dreaming Child Happened Again
-A small town in Mysilia has been obliterated without a trace due to the rampage of a Dreaming Child startled by an alarm clock. Prince Efrond of Mysilia remains silent on the matter.
-@ruin,UN_ephrond
+【Tragédia】O Filho Sonhador Aconteceu Novamente  
+Uma pequena cidade em Mysilia foi destruída sem deixar vestígios devido à fúria de um Filho Sonhador assustado por um despertador. O Príncipe Efrond de Mysilia permanece em silêncio sobre o assunto.  
+@ruin, UN_ephrond
 
-New Grape Variety Revolutionizes Wine Industry
-Wine producers in Olvina have successfully grown a new grape variety using spring water. The unique flavored wine crafted from this new grape is set to delight the palates of numerous tourists.
-@farm,UN_sio
+Nova Variedade de Uva Revoluciona a Indústria do Vinho  
+Produtores de vinho em Olvina conseguiram cultivar uma nova variedade de uva usando água da primavera. O vinho, com sabor único, produzido dessa nova uva promete agradar os paladares de inúmeros turistas.  
+@farm, UN_sio
 
-Memorial Ceremony for the Deceased
-In Mysilia, scarred by the Decade War, a solemn ceremony was held. People gathered at the community graveyard, offering silent prayers for the fallen and yearning for peace.
+Cerimônia Memorial para os Falecidos  
+Em Mysilia, marcada pela Guerra das Décadas, foi realizada uma cerimônia solene. Pessoas se reuniram no cemitério comunitário, oferecendo orações silenciosas pelos caídos e ansiando por paz.  
 @city
 
-'Tax Batteries' Remark Stirs Controversy
-"Greetings, dear patriotic tax batteries of Palmia," Prince Efrond of Mysilia sarcastically greeted Palmian citizens on Founding Day, igniting a wave of controversy.
-@city,UN_ephrond
+Comentário sobre 'Baterias de Impostos' Gera Controvérsia  
+"Saudações, caras patrióticas baterias de impostos de Palmia," o Príncipe Efrond de Mysilia cumprimentou sarcasticamente os cidadãos palmianos no Dia da Fundação, acendendo uma onda de controvérsia.  
+@city, UN_ephrond
 
-Human-Elea Relations: Growing Discord
-The bond between humans and eleas is increasingly getting cold. The cherished joint flower-viewing festival in Mysilia was called off due to a boycott by a group of humans.
-@city,UN_jonan
+Relações Humanas-Elea: Discordância Crescente  
+O vínculo entre humanos e eleas está se tornando cada vez mais frio. O querido festival conjunto de apreciação das flores em Mysilia foi cancelado devido a um boicote de um grupo de humanos.  
+@city, UN_jonan
 
-Heartwarming Miracle at Mysilian Asylum
-A box full of toys and sweets arrived unmarked at the Mysilia Asylum, a sanctuary for war-affected orphans. Many believe Chief Lowell's compassion touched the forest spirits.
-@farm,UN_lowell
+Milagre comovente no Asilo Mysiliano  
+Uma caixa cheia de brinquedos e doces chegou sem identificação no Asilo Mysiliano, um santuário para órfãos afetados pela guerra. Muitos acreditam que a compaixão do Chefe Lowell tocou os espíritos da floresta.  
+@farm, UN_lowell
 
-Mysilian Orphanage Plants Seeds of Future
-Harbouring war-stricken children, Mysilia Asylume has launched a farming program to foster self-reliance. Voices of support echo from within Mysilia and abroad.
-@farm,UN_lowell
+Orfanato Mysiliano Planta as Sementes do Futuro  
+Acolhendo crianças atingidas pela guerra, o Asilo Mysiliano lançou um programa de agricultura para promover a autossuficiência. Vozes de apoio ecoam de dentro e fora de Mysilia.  
+@farm, UN_lowell
 
-Elea Lord in Grief
-Lord Cetrus, symbol of human-elea unity and hero of the 10-Years-War, has withdrawn from public since the loss of his beloved. With inter-races relations now precarious, will he remain silent?
-@ruin,UN_ineien
+Senhor Elea em Luto  
+O Senhor Cetrus, símbolo da unidade humano-elea e herói da Guerra dos Dez Anos, se afastou do público desde a perda de seu amado. Com as relações entre as raças agora precárias, ele permanecerá em silêncio?  
+@ruin, UN_ineien
 
-Zanan Protests Against Mysilia
-The kingdom of Zanan reproaches Mysilia for admitting the exiled knight Barrich. This action may provoke hostilities, suggesting Zanan's intent to isolate eleas.
-@royal,UN_barrich
+Protestos de Zanan contra Mysilia  
+O reino de Zanan repreende Mysilia por admitir o cavaleiro exilado Barrich. Essa ação pode provocar hostilidades, sugerindo a intenção de Zanan de isolar os eleas.  
+@royal, UN_barrich
 
-'Griffin' Saves the Day
-Griffin, the owl companion of Lord Melvin, repelled a thief trying to break into a home at night. Despite its cute appearance and being...an owl, he showed the bravery of its mythical namesake.
-@city,UN_melvin
+'Grifo' Salva o Dia  
+Grifo, o companheiro coruja do Senhor Melvin, afastou um ladrão que tentava invadir uma casa à noite. Apesar de sua aparência fofa e de ser... uma coruja, ele mostrou a coragem de seu nome mitológico.  
+@city, UN_melvin
 
-Special Hot Spring Discounts for Adventurers
-Olvina has launched an exclusive discount for adventurers. Many are visiting these rejuvenating hot springs to relax after their quests.
+Descontos Especiais em Termas para Aventuristas  
+Olvina lançou um desconto exclusivo para aventureiros. Muitos estão visitando essas fontes termais revigorantes para relaxar após suas missões.  
 @farm
 
-Stray Putit Wanders in Search of Adventurer's Family
-A stray putit has been repeatedly spotted at homes on the outskirts of Mysilia. Witnesses suggest the putit might be looking for a certain adventurer's family.
+Putit Errante Procura Família de Aventurista  
+Um putit errante tem sido repetidamente avistado nas casas nos arredores de Mysilia. Testemunhas sugerem que o putit pode estar procurando a família de um certo aventureiro.  
 @farm
