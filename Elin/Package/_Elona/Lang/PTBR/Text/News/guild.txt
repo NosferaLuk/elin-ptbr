@@ -1,35 +1,35 @@
-"We're not babysitters for Yeeks."
-Adventurers from Kapul, fed up with the monster extermination jobs, have commenced a public strike today. The issue stems from the Fighters Guild constantly burdening them with the task of Yeek extermination.
-@city,UN_guild_doorman_fighter,UN_guild_master_fighter
+"Não somos babás de Yeeks."  
+Aventuristas de Kapul, cansados das tarefas de exterminação de monstros, iniciaram uma greve pública hoje. O problema surge do fato de a Guilda dos Lutadores constantemente sobrecarregar os aventureiros com a tarefa de exterminação de Yeeks.  
+@city, UN_guild_doorman_fighter, UN_guild_master_fighter
 
-Art Heist in Lumiest Attributed to Thieves' Guild
-Valued artworks have gone missing from a local museum in Lumiest, leaving the city's residents in despair. The theft, suspected to be the handiwork of the Thieves' Guild, has prompted intensive investigations from the Palmia Public Security Bureau.
-@room,UN_guild_doorman_thief,UN_conery
+Roubo de Arte em Lumiest Atribuído à Guilda dos Ladrões  
+Obras de arte valiosas desapareceram de um museu local em Lumiest, deixando os residentes da cidade em desespero. O roubo, suspeito de ser obra da Guilda dos Ladrões, levou a investigações intensas pelo Escritório de Segurança Pública de Palmia.  
+@room, UN_guild_doorman_thief, UN_conery
 
-Mages Guild Announces New Curse Spell
-The Mages Guild announced a new "powerful curse spell". However, no effects were observed at the press conference. The mage's remark that "the curse will undoubtedly befall later" has incensed the attending journalists.
-@labo,UN_renton
+Guilda dos Magos Anuncia Novo Feitiço de Maldição  
+A Guilda dos Magos anunciou um novo "poderoso feitiço de maldição". No entanto, nenhum efeito foi observado durante a coletiva de imprensa. A declaração do mago de que "a maldição certamente cairá mais tarde" irritou os jornalistas presentes.  
+@labo, UN_renton
 
-Heartwarming Blood Drive by Adventurers
-A blood donation campaign was hosted by the Adventurers Guild under the chilly skies of Noyel. Participants compassionately donated their blood for patients in need. Snow putits, wrapped in scarves, cheered on the participants.
+Campanha de Doação de Sangue comovente de Aventuristas  
+Uma campanha de doação de sangue foi realizada pela Guilda dos Aventuristas sob o céu frio de Noyel. Os participantes doaram seu sangue de forma compassiva para pacientes necessitados. Snow putits, envoltos em cachecóis, animaram os participantes.  
 @snow
 
-Mystical Ruins: Traces of the Eternal Witch?
-The Mages Guild has uncovered traces of the "Eternal Witch" in ancient ruins, believed to be the site for casting cosmic magic spells, especially "Meteor". Fragments of star-patterned gear found at the site excite scholars as evidence of her existence.
+Ruínas Místicas: Vestígios da Bruxa Eterna?  
+A Guilda dos Magos descobriu vestígios da "Bruxa Eterna" em ruínas antigas, acreditando ser o local onde feitiços cósmicos, especialmente "Meteoro", eram lançados. Fragmentos de equipamentos com padrões estelares encontrados no local entusiasmaram os estudiosos como evidência de sua existência.  
 @ruin
 
-Ancient Documents Reveal Secrets of the Eternal Witch
-Newly translated ancient texts shed light on the Eternal Witch, described with pure white hair and rubinus eyes, continuing her journey unaged through the ages, providing inspiration to modern adventurers.
-@labo,UN_renton
+Documentos Antigos Revelam Segredos da Bruxa Eterna  
+Textos antigos recentemente traduzidos iluminam a história da Bruxa Eterna, descrita com cabelo branco puro e olhos rubinos, continuando sua jornada imune ao envelhecimento, inspirando os aventureiros modernos.  
+@labo, UN_renton
 
-Divine Wisdom: Rapid Reading, Restless Nights
-A warmage has gained the ability to read 100 books in one night with Divine Wisdom spell. However, as a side effect, the warmage can no longer sleep at night, resorting to counting sheep as a newfound hobby.
+Sabedoria Divina: Leitura Rápida, Noites Sem Descanso  
+Um warmage adquiriu a habilidade de ler 100 livros em uma noite com o feitiço de Sabedoria Divina. No entanto, como efeito colateral, o warmage não consegue mais dormir à noite, recorrendo à contagem de ovelhas como um novo passatempo.  
 @city
 
-Magician's Invisibility Spell Goes Awry
-A magician invited for entertainment at the Palmian court caused a massive search after casting an invisibility spell on King Zane's pet, making it disappear The magician now believes making just the collar invisible would have been wiser.
-@royal,UN_zane
+Feitiço de Invisibilidade do Mago Dá Errado  
+Um mago convidado para entretenimento na corte de Palmia causou uma grande busca ao lançar um feitiço de invisibilidade no animal de estimação do Rei Zane, fazendo-o desaparecer. O mago agora acredita que teria sido mais sábio tornar apenas a coleira invisível.  
+@royal, UN_zane
 
-The Wise Cat: A Feline's Quest for Knowledge
-After being enchanted with a "Divine Wisdom" spell by its owner, a cat became excessively intelligent and left home. It has been seen engrossed in philosophy books at the local library.
+O Gato Sábio: A Busca de um Felino pelo Conhecimento  
+Depois de ser encantado com o feitiço de "Sabedoria Divina" por seu dono, um gato se tornou excessivamente inteligente e deixou a casa. Foi visto mergulhado em livros de filosofia na biblioteca local.  
 @room
