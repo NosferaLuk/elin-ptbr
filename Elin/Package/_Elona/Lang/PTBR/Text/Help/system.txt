@@ -1,7 +1,7 @@
-$backup
-{topic,Restoring Backup}
-When creating a backup from the game’s load window, a folder named “Backup” is generated in your PC’s save data folder (this can be found by navigating to Settings → Others → Open Error Log). The folder containing the backup save data is then copied into this Backup folder.
+$backup  
+{topic,Restoring Backup}  
+Ao criar um backup a partir da janela de carregamento do jogo, uma pasta chamada "Backup" é gerada na pasta de dados salvos do seu PC (você pode encontrá-la navegando até Configurações → Outros → Abrir Log de Erros). A pasta contendo os dados de backup é copiada para esta pasta Backup.
 
-To restore a backup, open the save data folder mentioned above, delete the existing save data, and copy the backed-up save data folder from the Backup folder.
+Para restaurar um backup, abra a pasta de dados salvos mencionada acima, exclua os dados salvos existentes e copie a pasta de dados salvos do backup da pasta Backup.
 
-The ID of the save data can be checked from the “World Details” screen on the load menu.
+O ID dos dados salvos pode ser verificado na tela "Detalhes do Mundo" no menu de carregamento.
