@@ -4,50 +4,49 @@ $1
 
 $map
 {topic, What are Custom Maps?}
-Custom maps are maps that players create and publish. By using items like the Moon Gate, you can visit custom maps uploaded by other players.
+Mapas personalizados são mapas que os jogadores criam e publicam. Usando itens como o Portal da Lua, você pode visitar mapas personalizados enviados por outros jogadores.
 
-As Custom Maps is currently in a testing phase, expect many changes and additions to this feature. Therefore, please be aware that maps from different game versions might lose compatibility.
+Como os Mapas Personalizados estão atualmente em fase de testes, espere muitas mudanças e adições nesta funcionalidade. Portanto, esteja ciente de que mapas de diferentes versões do jogo podem perder a compatibilidade.
 
 {topic, Uploading Custom Maps}
-Using the 'hearth stone' in a map you own will bring up a dedicated in-game uploader. By agreeing to the terms of use and selecting 'Upload', you can make your current map available to all players online. If you choose 'Save Local', the map will be saved in the 'Elin/User/Map' folder.
+Usando a 'pedra do lar' em um mapa que você possui, será aberto um carregador dedicado dentro do jogo. Ao concordar com os termos de uso e selecionar 'Enviar', você pode tornar seu mapa atual disponível para todos os jogadores online. Se escolher 'Salvar Local', o mapa será salvo na pasta 'Elin/User/Map'.
 
-Uploaded maps are randomly visited by players using the Moon Gate. If there are 'In-Map Replacement' textures in your map, they are also uploaded simultaneously, allowing them to be displayed when other players visit the map.
+Mapas enviados são visitados aleatoriamente por jogadores que utilizam o Portal da Lua. Se houver texturas de 'Substituição no Mapa' no seu mapa, elas também serão enviadas simultaneamente, permitindo que sejam exibidas quando outros jogadores visitarem o mapa.
 
 {topic, Uploader Specifications}
-* At the moment, players cannot delete maps they have uploaded (this feature is planned for a future update).
+*No momento, os jogadores não podem excluir mapas que enviaram (essa funcionalidade está planejada para uma futura atualização).
 
-* Maps will be automatically deleted starting from the oldest upload date.
+*Os mapas serão automaticamente excluídos a partir da data de upload mais antiga.
 
-* If you upload a map with the same ID as one already on the uploader, the existing map will be updated, and the upload date will be refreshed.
+*Se você enviar um mapa com o mesmo ID de um já presente no carregador, o mapa existente será atualizado, e a data de upload será renovada.
 
-* There is an upper limit to the size of the maps you can upload.
+*Existe um limite superior para o tamanho dos mapas que você pode enviar.
 
 
 $replace
 {topic, Texture Viewer}
-By using the in-game Texture Viewer, you can easily replace images. Open the Texture Viewer from the system menu's tools, click on the image you want to replace and select 'Create Replacement'. The replacement image will be generated in the 'Elin/User/Texture Replace' folder.
+Ao usar o Visualizador de Texturas dentro do jogo, você pode substituir facilmente as imagens. Abra o Visualizador de Texturas a partir das ferramentas no menu do sistema, clique na imagem que você deseja substituir e selecione 'Criar Substituição'. A imagem substituta será gerada na pasta 'Elin/User/Texture Replace'.
 
-Replaced images are displayed with a green background, and you can launch the application associated with the image by clicking 'Open'. You can also delete the replacement image by selecting 'Delete'.
+Imagens substituídas são exibidas com um fundo verde, e você pode abrir o aplicativo associado à imagem clicando em 'Abrir'. Você também pode excluir a imagem substituída selecionando 'Excluir'.
 
 {topic, In-Map Replacements}
-From the Texture Viewer, you can also create 'In-Map Replacement'. These are replacement images that only apply to the map you're currently on, and they take priority over regular replacement images and those replaced by mods. Please note that In-Map replacements are only valid in the save data of the world you're currently playing.
+A partir do Visualizador de Texturas, você também pode criar 'Substituições no Mapa'. Estas são imagens substitutas que se aplicam apenas ao mapa em que você está atualmente, e elas têm prioridade sobre as imagens substituídas normalmente e aquelas substituídas por mods. Observe que as substituições no mapa são válidas apenas nos dados salvos do mundo em que você está jogando.
 
-When you upload a map with In-Map replacement images, they are also uploaded and will be displayed to other players.
+Quando você enviar um mapa com imagens de substituição no mapa, elas também serão enviadas e exibidas para outros jogadores.
 
 {topic, Drag & Drop to replace}
-You can add replacement images created by other players to the game by directly dragging and dropping the files onto the game screen. If you want to add them manually, please place the image files in the 'Elin/User/Texture Replace' folder.
-
+Você pode adicionar imagens de substituição criadas por outros jogadores ao jogo arrastando e soltando os arquivos diretamente na tela do jogo. Se preferir adicioná-las manualmente, coloque os arquivos de imagem na pasta 'Elin/User/Texture Replace'.
 
 $terms
 {topic,In-game Uploader - Terms of Use}
-Herein, we'll refer to players who use this uploader as "users", and the content published via this uploader as "user content".
+Aqui, nos referiremos aos jogadores que utilizam este carregador como "usuários", e o conteúdo publicado por meio deste carregador como "conteúdo do usuário".
 
-1. All user content may be removed without notice if it contains material that contradicts public order and morals, contains malicious content, or significantly deviates from the game's world lore.
+1. Todo conteúdo do usuário pode ser removido sem aviso prévio caso contenha material que contradiga a ordem pública e os bons costumes, contenha conteúdo malicioso ou se desvie significativamente da lore do jogo.
 
-2. Responsibility for the user content lies solely with the user. Neither Lafrontier nor noa will assume any liability regarding user content.
+2. A responsabilidade pelo conteúdo do usuário é exclusivamente do usuário. Nem Lafrontier nem noa assumirão qualquer responsabilidade em relação ao conteúdo do usuário.
 
-3. Please note that this uploader is currently in beta. Due to changes in specifications, the uploader may temporarily stop, or all uploaded user content may be removed.
+3. Observe que este carregador está atualmente em fase beta. Devido a mudanças nas especificações, o carregador pode parar temporariamente, ou todo o conteúdo carregado dos usuários pode ser removido.
 
-Keeping these points in mind, we encourage you to fully express your creativity. Let's respect the rules and common sense, and create a fun and safe community where every player can share a great in-game experience.
+Tendo esses pontos em mente, incentivamos você a expressar completamente sua criatividade. Vamos respeitar as regras e o bom senso, e criar uma comunidade divertida e segura onde cada jogador possa compartilhar uma ótima experiência no jogo.
 
-If you choose to use the in-game uploader, please agree to the above terms of use.
+Se você optar por usar o carregador dentro do jogo, por favor, concorde com os termos de uso acima.
