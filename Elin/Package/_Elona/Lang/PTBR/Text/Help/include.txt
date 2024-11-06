@@ -1,13 +1,18 @@
-$topic_credit
-{topic,Lafrontier Developers}
-$topic_credit_resource
-{topic,Copyright and Creator Information}
-This game makes use of a variety of free resources. We would like to express our gratitude to all the creators of these materials. Images have been adapted to fit the game, including resizing. Additionally, we have altered the volume and pitch of sound effects within the work.
+$topic_credit  
+{topic,Lafrontier Developers}  
+Este jogo é desenvolvido pela Lafrontier. A equipe por trás dele está dedicada a oferecer uma experiência única e divertida para os jogadores. Eles trabalharam duro para dar vida a diversos elementos do jogo, desde a jogabilidade principal até a arte, som e mecânicas.
 
-{topic,Elona Resources}
-$topic_credit_backer
-{topic,Wish Credits}
-These are the features implemented through the 'wishes' of Elin's backers, along with a list of their names. We would like to express our gratitude to everyone for enhancing the game with their wishes.
-$topic_credit_news
-{topic,Palmia Times Credits}
-These are the names of backers who have contributed in enriching the Palmia Times. We would also like to express our gratitude to everyone here.
+$topic_credit_resource  
+{topic,Copyright and Creator Information}  
+Este jogo utiliza uma variedade de recursos gratuitos. Gostaríamos de expressar nossa gratidão a todos os criadores desses materiais. As imagens foram adaptadas para se ajustarem ao jogo, incluindo redimensionamento. Além disso, alteramos o volume e o tom dos efeitos sonoros dentro da obra.
+
+{topic,Elona Resources}  
+O jogo incorpora recursos da série *Elona*, com agradecimentos especiais aos seus criadores pelas contribuições. Esses recursos aprimoram a experiência geral e ajudam a dar vida ao mundo.
+
+$topic_credit_backer  
+{topic,Wish Credits}  
+Essas são as funcionalidades implementadas através dos "desejos" dos patrocinadores de Elin, juntamente com uma lista de seus nomes. Gostaríamos de expressar nossa gratidão a todos por enriquecer o jogo com seus desejos.
+
+$topic_credit_news  
+{topic,Palmia Times Credits}  
+Esses são os nomes dos patrocinadores que contribuíram para enriquecer o *Palmia Times*. Também gostaríamos de expressar nossa gratidão a todos aqui por suas contribuições, que ajudaram a dar vida ao mundo de *Tyris*.
